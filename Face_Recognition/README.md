@@ -5,8 +5,18 @@
 
 ## 1.What is & Why Face-Recognition ?
 
-- Briefly talk about Face-Recognition
-- Show image about the face dievided from 1.high dimension 2.AM-Softmax function  
+- Face-Recognition is the technics for extract the individual-face-information, transforming into the high dimension vector.
+And then, you can divide different people's face with those individual high-dimension vector,  
+
+- Here some example showing how does it work :
+
+ ![image](data/2.png)
+
+	
+	
+	
+- Show image about the face dievided from 1.high dimension 2.AM-Softmax function
+
 
 ## 2.Use Face-Recognition in real world ?
 
