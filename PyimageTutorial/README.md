@@ -7,9 +7,9 @@ The PyimageSearch-Optimized Project & AIA Academy CV related project
 
 ### Facial Detection : 
 
-- In Single-Person
+- In Single-Person <br>
 
-![image](data/2.png)
+![image](data/img/2.png)
 
 - In Multi-Person
 
